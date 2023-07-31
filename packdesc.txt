@@ -1,0 +1,15 @@
+for example: 
+- Coal trades are 4 coal/charcoal for 1 emerald instead of previously 15 coal/charcoal for 1 emerald
+- Enchanted Diamond Armor costs are 12 - 32 emeralds instead of previously 16 - 64 emeralds
+- Enchanted Diamond tool costs are 12 - 32 emeralds instead of previously 16 - 64 emeralds
+- The butcher sells 24 cooked mutton for 1 emerald instead of previously 6 cooked mutton for 1 emerald, 16 cooked beef or porkchop for 1 emerald instead of previously 4 cooked beef or porkchop for 1 emerald.
+- You can now trade 4 iron ingots for 4 emeralds with multiple villagers which is a much better trade than 4 iron ingots for 1 emerald
+- 4 paper now trades for 1 emerald with cartographers and librarians, and also 4 glass panes for 1 emerald instead of the usual 11 trade with cartographers is now a thing
+- Clerics trade 4 rotten flesh for 1 emerald instead of previously 32 rotten flesh for 1 emerald
+- You can now trade 2 wheat or 4 potatoes/carrots for 1 emerald instead of previously 20 wheat or 26 potatoes/carrots for 1 emerald
+- The fletcher will buy just 4 sticks for 1 emerald instead of previously 32 for 1 emerald
+- Enchanted book trade prices have all been reduced by 12 emeralds
+- Stone masons buy 4 stone for 1 emerald instead of previously 16 stone for 1 emerald
+- 
+
+Keep in mind these are just some examples, almost every trade in the game has been changed for the better but it would take for ever to note that all down here as there are hundreds if not thousands of trades!

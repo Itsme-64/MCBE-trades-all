@@ -1,0 +1,17 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "Itsme64's Better Villager Trades",
+		"description": "This pack significantly decreases the price of almost every villager trade in the game, in favor of the player of course!",
+		"uuid": "cdbdd669-81e9-48e6-bf8c-985fe059b442",
+		"version": [ 1, 4, 1],
+		"min_engine_version": [1,13,0]
+	},
+	"modules": [
+		{
+			"type": "data",
+			"uuid": "eb2d98b2-9595-48f8-a991-fecd7bb56b8f",
+			"version": [ 1, 4, 1]
+		}
+	]
+}
